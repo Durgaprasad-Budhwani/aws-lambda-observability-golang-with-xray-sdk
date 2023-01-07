@@ -191,7 +191,7 @@ main.go Example:
 
 ## Source Code
 
-For source code, please refer to the [link](https://github.com/Durgaprasad-Budhwani/aws-lambda-observability-golang)
+For source code, please refer to the [link](https://github.com/Durgaprasad-Budhwani/aws-lambda-observability-golang-with-xray-sdk)
 
 
 
